@@ -13,6 +13,7 @@ La misión fue limpiar, unir y analizar ambas bases para obtener información ú
 
 ### **Herramientas tenológicas** 
  • Jupyter Notebook
+ 
  • Python: pandas, numpy, seaborn, matplotlib
 
 ### **Dataset del proyecto**
