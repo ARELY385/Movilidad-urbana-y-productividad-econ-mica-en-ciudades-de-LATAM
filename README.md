@@ -28,6 +28,7 @@ Ambas tablas se complementan para entender cómo la eficiencia del tráfico urba
 Registra información sobre niveles de tráfico y congestión en tiempo real en distintas ciudades monitoreadas por TomTom, una empresa global de geolocalización.
 Cada registro corresponde a una actualización puntual del estado del tráfico en una ciudad.
 
+![Dataset 1](dataset1.png)
 
 
 
