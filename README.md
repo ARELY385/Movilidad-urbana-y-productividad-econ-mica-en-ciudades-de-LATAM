@@ -8,13 +8,14 @@ Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
 La misión fue limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
 
 ### **Preguntas del negocio**
-¿Qué ciudades de América Latina presentan alta congestión y baja productividad económica?
-¿Cuáles muestran los mejores indicadores combinados (movilidad eficiente y economía fuerte)?
-¿Qué variables parecen tener una relación más fuerte con el desarrollo urbano?
+1. ¿Qué ciudades de América Latina presentan alta congestión y baja productividad económica?
+2. ¿Cuáles muestran los mejores indicadores combinados (movilidad eficiente y economía fuerte)?
+3. ¿Qué variables parecen tener una relación más fuerte con el desarrollo urbano?
 
 ### **Herramientas tenológicas** 
--Jupyter Notebook
--Python: pandas, numpy, seaborn, matplotlib
+Jupyter Notebook
+
+Python: pandas, numpy, seaborn, matplotlib
 
 ### **Dataset del proyecto**
 Fuentes principales de información:
@@ -23,10 +24,11 @@ Fuentes principales de información:
    
 Ambas tablas se complementan para entender cómo la eficiencia del tráfico urbano se relaciona con el desempeño económico en ciudades latinoamericanas.
 
-**Dataset 1: tomtom_traffic.csv**
+# **Dataset 1: tomtom_traffic.csv**
 Registra información sobre niveles de tráfico y congestión en tiempo real en distintas ciudades monitoreadas por TomTom, una empresa global de geolocalización.
 Cada registro corresponde a una actualización puntual del estado del tráfico en una ciudad.
-<img width="531" height="402" alt="image" src="https://github.com/user-attachments/assets/b5592565-2703-4323-afa6-2d1944a067c5" />
+![Descripción](https://github.com/.../imagen.png)
+
 
 
 
