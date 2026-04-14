@@ -36,3 +36,4 @@ Contiene indicadores anuales sobre economía urbana, empleo, contaminación y po
 Cada registro representa una ciudad en un año específico, lo que permite comparar niveles de productividad y desarrollo urbano entre países.
 
 
+![Dataset 1](estructura_dataset2.png)
