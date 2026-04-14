@@ -23,13 +23,17 @@ Fuentes principales de información:
    
 Ambas tablas se complementan para entender cómo la eficiencia del tráfico urbano se relaciona con el desempeño económico en ciudades latinoamericanas.
 
-# **Dataset 1: tomtom_traffic.csv**
+## **Dataset 1: tomtom_traffic.csv**
 
 Registra información sobre niveles de tráfico y congestión en tiempo real en distintas ciudades monitoreadas por TomTom, una empresa global de geolocalización.
 Cada registro corresponde a una actualización puntual del estado del tráfico en una ciudad.
 
 ![Dataset 1](dataset1.png)
 
+## **Dataset 2: oecd_city_economy.csv**
+
+Contiene indicadores anuales sobre economía urbana, empleo, contaminación y población recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económicos).
+Cada registro representa una ciudad en un año específico, lo que permite comparar niveles de productividad y desarrollo urbano entre países.
 
 
 
