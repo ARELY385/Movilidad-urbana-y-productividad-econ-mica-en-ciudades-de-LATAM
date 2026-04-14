@@ -35,5 +35,4 @@ Cada registro corresponde a una actualización puntual del estado del tráfico e
 Contiene indicadores anuales sobre economía urbana, empleo, contaminación y población recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económicos).
 Cada registro representa una ciudad en un año específico, lo que permite comparar niveles de productividad y desarrollo urbano entre países.
 
-![Dataset 1](estructura_dataset2.png)
 
