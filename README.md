@@ -7,17 +7,18 @@ Movilidad urbana: TomTom Traffic Index (datos de tráfico en tiempo real).
 Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
 La misión fue limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
 
-##💡 Preguntas del negocio:
+###💡**Preguntas del negocio:**
 ¿Qué ciudades de América Latina presentan alta congestión y baja productividad económica?
 ¿Cuáles muestran los mejores indicadores combinados (movilidad eficiente y economía fuerte)?
 ¿Qué variables parecen tener una relación más fuerte con el desarrollo urbano?
 
-##🛠️ Herramientas tenológicas: 
+###🛠️**Herramientas tenológicas:** 
+
 -Jupyter Notebook
 -Python: pandas, numpy, seaborn, matplotlib
 
-##Dataset del proyecto
-fuentes principales de información:
+### **Dataset del proyecto**
+Fuentes principales de información:
 1. tomtom_traffic.csv : Datos sobre congestión vehicular y condiciones de tráfico en ciudades del mundo.
 2. oecd_city_economy.csv : Indicadores económicos y ambientales por ciudad, recopilados por la OECD (Organización para la Cooperación y el Desarrollo Económico).
    
