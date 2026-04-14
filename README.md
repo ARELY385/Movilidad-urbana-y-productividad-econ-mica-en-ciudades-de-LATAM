@@ -1,10 +1,11 @@
 ### Movilidad urbana y productividad económica en ciudades de LATAM
-Analizar la relación entre la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) y la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
-Eres analista de datos en el Latin American Development Bank y tu equipo debe entregar un reporte, ya que el objetivo del banco es identificar en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
+Análisis de la relación entre la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) y la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
+Este proyecto se desarrolla en el contexto de un equipo de análisis de datos del Latin American Development Bank, con el objetivo de identificar en qué ciudades invertir en infraestructura de transporte para mejorar la productividad y el bienestar de la población.
 Para ello, se usaron dos fuentes reales de datos:
 Movilidad urbana: TomTom Traffic Index (datos de tráfico en tiempo real).
 Economía urbana: OECD Cities (PIB per cápita, desempleo y población).
-La misión fue limpiar, unir y analizar ambas bases para obtener información útil para la toma de decisiones.
+
+La misión fue limpiar, unir y analizar ambas bases para generar insights accionables.
 
 ### **Preguntas del negocio**
 1. ¿Qué ciudades de América Latina presentan alta congestión y baja productividad económica?
@@ -37,3 +38,20 @@ Cada registro representa una ciudad en un año específico, lo que permite compa
 
 
 ![Dataset 1](estructura_dataset2.png)
+
+### **Plan de acción**
+
+Construir una tabla unificada que combine variables de movilidad urbana (TomTom) con variables económicas (OECD) para ciudades de América Latina en 2024.
+El objetivo es generar una base de datos limpia y estandarizada para analizar cómo la movilidad impacta la productividad económica.
+
+### **Metodología**
+1. Exploración de datos: Identificación de columnas, tipos de datos y estructura general.
+2. Limpieza de datos: Estandarización de nombres de columnas y corrección de tipos de datos.
+3. Estandarización y filtrado de fecha: El período más reciente y relevante, el año 2024.
+4. Agregación de datos: Cálculo de promedios de tráfico por ciudad.
+5. Unión de datasets: Integración de datos de movilidad y economía en una sola tabla.
+6. Análisis y visualización: Generación de gráficos para identificar patrones y relaciones entre variables.
+
+### **Resultados clave**
+### **Conclusiones**
+### **Recomendaciones**
