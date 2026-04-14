@@ -1,5 +1,5 @@
 ### Movilidad urbana y productividad económica en ciudades de LATAM
-Relación entre la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) y la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
+Analizar la relación entre la movilidad urbana (niveles de congestión, tiempos de viaje, retrasos) y la productividad económica (PIB per cápita, desempleo) en las principales ciudades latinoamericanas.
 Eres analista de datos en el Latin American Development Bank y tu equipo debe entregar un reporte, ya que el objetivo del banco es identificar en qué ciudades invertir en infraestructura de transporte para aumentar la productividad y el bienestar de la población.
 
 Para ello, se usaron dos fuentes reales de datos:
@@ -23,9 +23,10 @@ Fuentes principales de información:
    
 Ambas tablas se complementan para entender cómo la eficiencia del tráfico urbano se relaciona con el desempeño económico en ciudades latinoamericanas.
 
-#Dataset 1: tomtom_traffic.csv
+**Dataset 1: tomtom_traffic.csv**
 Registra información sobre niveles de tráfico y congestión en tiempo real en distintas ciudades monitoreadas por TomTom, una empresa global de geolocalización.
 Cada registro corresponde a una actualización puntual del estado del tráfico en una ciudad.
+<img width="531" height="402" alt="image" src="https://github.com/user-attachments/assets/b5592565-2703-4323-afa6-2d1944a067c5" />
 
-xz
+
 
