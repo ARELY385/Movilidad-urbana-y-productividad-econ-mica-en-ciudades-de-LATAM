@@ -13,7 +13,7 @@ La misión fue limpiar, unir y analizar ambas bases para generar insights accion
 3. ¿Qué variables parecen tener una relación más fuerte con el desarrollo urbano?
 
 ### **Herramientas tenológicas** 
- • Jupyter Notebook
+ • Google Colab
  
  • Python: pandas, numpy, seaborn, matplotlib
 
