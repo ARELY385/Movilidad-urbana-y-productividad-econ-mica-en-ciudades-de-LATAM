@@ -53,5 +53,38 @@ El objetivo es generar una base de datos limpia y estandarizada para analizar c�
 6. Análisis y visualización: Generación de gráficos para identificar patrones y relaciones entre variables.
 
 ### **Resultados clave**
-### **Conclusiones**
-### **Recomendaciones**
+
+Análisis de distribución del tráfico (jams_delay) – 2024
+
+El promedio de retraso es de aproximadamente 629.52 minutos anuales. Sin embargo, la mayoría de los valores se concentran por debajo de los 1,000 minutos, lo que indica que algunas ciudades presentan niveles de congestión considerablemente más altos que el resto.
+
+La distribución muestra una asimetría positiva (sesgo a la derecha), evidenciada por la presencia de valores elevados que extienden la cola superior. Esto sugiere que existen ciudades con niveles de tráfico significativamente superiores al promedio.
+
+Asimismo, se identifica al menos un valor atípico por encima de los 2,500 minutos, lo que refuerza la existencia de alta variabilidad en la congestión urbana entre ciudades.
+
+![Dataset 1](boxplot_jams_delay.png)
+
+Análisis de distribución económica (city_gdp_capita) – 2024
+
+Se observa que la mayoría de las ciudades presentan un PIB per cápita en el rango aproximado de 10,000 a 15,000 USD, lo que indica una concentración en niveles económicos medios dentro de la muestra.
+
+Asimismo, existen valores en los extremos —por debajo de 5,000 USD y por encima de 25,000 USD— que sugieren la presencia de alta variabilidad entre ciudades. Esto indica diferencias significativas en el nivel económico, más que una “distribución anormal”.
+
+![Dataset 1](hist_economy.png)
+
+### **Conclusiones generales**
+
+Relación entre PIB y congestión
+
+No se identifica una relación lineal consistente entre ambas variables. Aunque algunos casos sugieren una tendencia inversa, existen suficientes excepciones que impiden generalizar esta relación. Ciudades con alta congestión y menor nivel económico Ciudades como Bogotá y Lima presentan niveles elevados de congestión junto con niveles económicos medios, lo que puede indicar oportunidades de mejora en infraestructura de transporte.
+
+Mejores indicadores combinados
+
+Montevideo destaca por presentar bajo nivel de congestión y alto PIB per cápita. Buenos Aires también muestra un balance favorable en comparación con otras ciudades. Interpretación general Los resultados indican que el nivel económico por sí solo no explica los niveles de congestión. Es necesario considerar variables adicionales para entender la movilidad urbana de manera integral.
+
+![Dataset 1](relacion_traffic_economy.png)
+
+### **Recomendaciones de inversión**
+
+Las ciudades con alta congestión y niveles económicos medios, como Bogotá y Lima, podrían ser prioritarias para inversión en infraestructura de transporte, ya que mejoras en movilidad podrían tener un impacto positivo en la productividad y calidad de vida.
+No obstante, se recomienda complementar este análisis con variables adicionales (densidad poblacional, transporte público, expansión urbana) antes de tomar decisiones de inversión.
